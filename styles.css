@@ -63,7 +63,7 @@
   }
   #intro {
     z-index: 4;
-    height: 70vh;
+    height: 100vh;
     width: 100vw;
 
     color: white;
@@ -155,7 +155,7 @@
 }
 #page3 h3 {
   font-size: 6vh;
-  width: 70%;
+  width: 80%;
   text-align: center;
   text-transform: uppercase;
   line-height: 1.1;
@@ -208,6 +208,7 @@
   }
   #page3 h4 {
     color: grey;
+    font-size: 0.8rem;
   }
   #page3 h4:hover {
     text-decoration: underline;
